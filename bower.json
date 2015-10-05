@@ -1,0 +1,16 @@
+{
+  "name": "webApp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vijayakumargithub/webApp",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
